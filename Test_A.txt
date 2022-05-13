@@ -7,3 +7,9 @@ Commit B
 Commit A
 
 Commit B
+
+4th Commit
+
+Commit A
+
+Commit B
