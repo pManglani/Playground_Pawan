@@ -1,3 +1,9 @@
 Commit A
 
 Commit B
+
+3rd Commit
+
+Commit A
+
+Commit B
